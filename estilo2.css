@@ -1,0 +1,53 @@
+
+
+
+#sup {
+    font-size: 50;
+    font-family: sans-serif;
+}
+
+#datos {
+    font-size: 25px;
+    height: 300px;
+    width: 750px;
+    border: 2px solid;
+    float: left;
+    
+   
+}
+
+img {
+    margin-top: 0px;
+    float: left;
+}
+
+.bloque2 {
+    width: 560px;
+    height: 715px;
+    border: 2px solid;
+    float: right;
+    font-size: 15px;
+    
+}
+
+.bloque2 h5 {
+    font-size: 15px;
+}
+.bloque2 ul li {
+    font-size: 15px;
+}
+
+.bloque3 {
+    width: 750px;
+    height 1000px;
+    border: 2px solid;
+    margin-top: 320px;
+}
+
+.bloque3 h5 {
+    font-size: 25px;
+}
+
+p {
+    margin: auto;
+}
